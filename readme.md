@@ -3,8 +3,8 @@
 > The code contained in this project does not represent the Best Practices and Coding Standards of the author in any way.  
 >
 > This project has been almost entirely [vibe coded](https://en.wikipedia.org/wiki/Vibe_coding).  
-> It does its job, and that's what matters.  
-> The task/goal that this project solves is simple, but time-consuming to implement.  
+> The task/goal that this project solves very is simple, but time-consuming to implement.  
+> This does the job, and that's what matters.  
 
 This application is a sleep tracking and visualization tool specialized for people with non-24-hour sleep-wake disorders and unorthodox sleep schedules.  
 It creates a visual representation of sleep patterns over time.  
